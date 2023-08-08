@@ -1,0 +1,134 @@
+body {
+    margin: 0px !important;
+    /* margin-left: -10px !important; */
+    /* background-color: #c22424; */
+  }
+  
+  .back-button {
+    width: 34px;
+    height: 34px;
+    background-color: #232E52;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.35s;
+    
+  }
+  .back-button:hover {
+    color: #8e2929;
+    transition: 0.3 ease-out;
+  }
+  
+  .back-icon {
+    font-size: 18px;
+    color: white;
+    transform: rotate(90deg); /* To make the < face left */
+  }
+  .back-button i {
+    font-size: 24px;
+    color: white;
+  }
+
+
+.blockcard1{
+    background: #062553;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+.blockcard2{
+    background: #2002ca;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+.myimg{
+    background: url(/img/green.png);
+    background-size: cover;
+    height: 600px;
+    /* margin-left: 10px; */
+    /* margin-right: 10px; */
+    background-repeat: no-repeat;
+}
+#myarrow{
+    background: #12942e;
+    margin-bottom: 8px;
+    padding-right: 30px;
+}
+.blockcard3{
+    background: #8408aa;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+#card{
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+.spanb{
+    background: white;
+    
+}
+
+.spanc{
+    background: #22468B;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    
+    
+}
+.header__card{
+    background: #22468B;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    
+    
+}
+
+.blockcard4{
+    background: #d60a14;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+.blockcard5{
+    background: #4e26df;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+.blockcard6{
+    background: #c73510;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+.blockcard7{
+    background: #0b7222;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+.blockcard8{
+    background: #25d4da;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+.blockcard9{
+    background: #12942e;
+    border: 1px transparent;
+    border-radius: 7px;
+}
+
+#cardbook{
+    border-radius: 10px;
+}
+
+
+ .cover {
+    background-image: url(/img/blog.jpg);
+}
